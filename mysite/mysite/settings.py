@@ -81,9 +81,9 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'x0j3l@q0evrkk$pic72xb_^)j*%1420!araw46-r2(n(8d8#k3'
-AWS_ACCESS_KEY = 'AKIAIEAO6GWTKMT5ZMBA'
-AWS_SECRET_KEY = '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'
+SECRET_KEY = ''
+AWS_ACCESS_KEY = ''
+AWS_SECRET_KEY = ''
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
